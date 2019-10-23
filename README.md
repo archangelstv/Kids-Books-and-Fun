@@ -8,7 +8,7 @@ The Wolves the Opposums and the Squirrel with Two Tails
 
 ![](images/ring.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg)
 
-![](images/lady.jpg) ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png)
+![](images/lady.jpg) ![](images/summer.jpg) ![](images/logo_main.png) ![](images/logo_main.png)
 ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png)
 
 ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png)
