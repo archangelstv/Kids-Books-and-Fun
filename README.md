@@ -6,9 +6,9 @@ A Special Book
 ![](images/thewolves1.JGP)
 The Wolves the Opposums and the Squirrel with Two Tails
 
-![](images/ring.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg)
+![](images/ring.JPG) ![](images/curse.jpg) ![](images/Bridge.jpg)
 
-![](images/lady.jpg) ![](images/summer.jpg) ![](images/tomturkey.jpg) ![](images/logo_main.png)
+![](images/lady.jpg) ![](images/Blackrose1.jpg) ![](images/wizard.jpg) ![](images/tomturkey.jpg) 
 ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png)
 
 ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png) ![](images/logo_main.png)
