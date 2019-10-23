@@ -1,5 +1,5 @@
 Magical stories from the Imagination of Dreams
-And several from the Mindset of Strang and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
+And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
 
 ![](images/thewolves.jGP)
 The Wolves the Opposums and the Squirrel with Two Tails
