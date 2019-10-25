@@ -1,4 +1,5 @@
 ![](images/Animation9.GIF)
+
 Magical stories from the Imagination of Dreams
 And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
 
@@ -7,7 +8,7 @@ A Special Book
 
 The Wolves the Opposums and the Squirrel with Two Tails
 
-![](images/Ringofskeletons.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg)
+![](images/RingofSkeletons.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg)
 
 ![](images/lady.jpg) ![](images/Blackrose1.jpg) ![](images/wizard.jpg) ![](images/tomturkey.jpg) 
 ![](images/logo_main.png) ![](images/unicorns.jpg) ![](images/tresure.jpg) ![](images/summer.jpg)
