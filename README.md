@@ -8,7 +8,7 @@ A Special Book
 
 The Wolves the Opposums and the Squirrel with Two Tails
 
-![](images/RingofSkeletons.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg)
+![](images/RingofSkeletons.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg) ![](images/RingofSkeletons.jpg)
 
 ![](images/lady.jpg) ![](images/Blackrose1.jpg) ![](images/wizard.jpg) ![](images/tomturkey.jpg) 
 ![](images/logo_main.png) ![](images/unicorns.jpg) ![](images/tresure.jpg) ![](images/summer.jpg)
