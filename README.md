@@ -11,6 +11,6 @@ The Wolves the Opposums and the Squirrel with Two Tails
 ![](images/RingofSkeletons.jpg) ![](images/curse.jpg) ![](images/Bridge.jpg) ![](images/RingofSkeletons.jpg)
 
 ![](images/lady.jpg) ![](images/Blackrose1.jpg) ![](images/wizard.jpg) ![](images/tomturkey.jpg) 
-![](images/logo_main.png) ![](images/unicorns.jpg) ![](images/tresure.jpg) ![](images/summer.jpg)
+![](images/logo_main.png) ![](images/summer.jpg) ![](images/tresure.jpg) ![](images/summer.jpg)
 
 ![](images/blackcats.jpg) ![](images/logo_main.png) ![](images/Blackrose.png) ![](images/catmouseM.png)
