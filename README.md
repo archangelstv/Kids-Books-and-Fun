@@ -13,4 +13,4 @@ The Wolves the Opposums and the Squirrel with Two Tails
 ![](images/lady.jpg) ![](images/Blackrose1.jpg) ![](images/wizard.jpg) ![](images/tomturkey.jpg) 
 ![](images/logo_main.png) ![](images/unicorns.jpg) ![](images/tresure.jpg) ![](images/summer.jpg)
 
-![](images/blackcats.jpg) ![](images/logo_main.png) ![](images/logo_main.png) ![](images/catmouseM.png)
+![](images/blackcats.jpg) ![](images/logo_main.png) ![](images/Blackrose.png) ![](images/catmouseM.png)
