@@ -9,6 +9,9 @@
 	<source src="hh.webm" type='video/webm; codecs="vp8, vorbis"' />-->
 </video>
 
+<video width="560" height="340" preload controls>
+<embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="test.h264" />
+</video>
 
 Magical stories from the Imagination of Dreams
 And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
