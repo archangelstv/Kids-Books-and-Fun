@@ -13,7 +13,7 @@
 <embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="video/racoon.mp4" />
 </video>
 
-private void btnStart_Click(object sender, EventArgs e)
+<private void btnStart_Click(object sender, EventArgs e)
       {
           try
           {
@@ -29,7 +29,7 @@ private void btnStart_Click(object sender, EventArgs e)
           {
               MessageBox.Show($"Error!!! {e}");
           }
-      }
+      }>
       
 Magical stories from the Imagination of Dreams
 And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
