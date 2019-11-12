@@ -10,7 +10,7 @@
 </video>
 <source src="https://www.kidsbooksandfun.com/video/m/rocoon.MP4" />
 <video width="560" height="340" preload controls>
-<embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="test.h264" />
+<embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="video/racoon.mp4" />
 </video>
 
 Magical stories from the Imagination of Dreams
