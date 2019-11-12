@@ -2,12 +2,7 @@
 
 ![](images/sometrainTT.png)
 
-<video width="560" height="340" preload controls>
-  <source src="hh.h264" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-  	<!--<source src="hh.mov" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
-	<source src="hh.ogv" type='video/ogg; codecs="theora, vorbis"' />
-	<source src="hh.webm" type='video/webm; codecs="vp8, vorbis"' />-->
-</video>
+
 <source src="https://www.kidsbooksandfun.com/video/rocoon.MP4" />
 <video width="560" height="340" preload controls>
 <embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="video/racoon.mp4" />
