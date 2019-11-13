@@ -5,7 +5,7 @@
 
 <source src="https://www.kidsbooksandfun.com/video/rocoon.MP4" />
 <video width="560" height="340" preload controls>
-<embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="video/racoon.mp4" />
+<embed type="application/x-vlc-plugin" pluginspage="http://www.kidsbooksandfun.com" target="video/racoon.mp4" />
 </video>
 
 <private void btnStart_Click(object sender, EventArgs e)
