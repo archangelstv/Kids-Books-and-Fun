@@ -17,7 +17,7 @@
               vlc.VideoOutput = pictureBox1;
               vlc.PlaylistClear();
               string[] Options = { ":sout=#duplicate{dst=display,dst=std {access=udp,mux=ts,dst=224.100.0.1:1234}}" };
-              vlc.AddTarget(@"d:\sample.avi", Options);
+              vlc.AddTarget(@"d:\racoon.mp4", Options);
               vlc.Play();
           }
           catch (Exception e1)
