@@ -2,39 +2,7 @@
 
 ![](images/sometrainTT.png)
 
-<div id="Container" 
-	style="padding-bottom:56.25%; position:relative;
-	display:block; width: 100%">
-	<iframe width="100%" height="100%" 
-		allowfullscreen webkitallowfullscreen
-		src="http://www.kidsbooksandfun.com/embed/C:\Users\lfern\Videos\racoon.flv" 
-		frameborder="0"
-		style="position:absolute; top:0; left: 0">
-	</iframe>
-</div>
 
-<video width="560" height="340" preload controls>
-<source src="https://www.kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" />
-<embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="C:\Users\lfern\Videos\racoon.mp4" />
-</video>
-
-<private void btnStart_Click(object sender, EventArgs e)
-      {
-          try
-          {
-              LibVlc vlc = new LibVlc();
-              vlc.Initialize();
-              vlc.VideoOutput = pictureBox1;
-              vlc.PlaylistClear();
-              string[] Options = { ":sout=#duplicate{dst=display,dst=std {access=udp,mux=ts,dst=224.100.0.1:1234}}" };
-              vlc.AddTarget(@"C:\racoon.mp4", Options);
-              vlc.Play();
-          }
-          catch (Exception e1)
-          {
-              MessageBox.Show($"Error!!! {e}");
-          }
-      }>
       
 Magical stories from the Imagination of Dreams
 And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
