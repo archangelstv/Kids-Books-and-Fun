@@ -2,6 +2,16 @@
 
 ![](images/sometrainTT.png)
 
+<div id="Container" 
+	style="padding-bottom:56.25%; position:relative;
+	display:block; width: 100%">
+	<iframe width="100%" height="100%" 
+		allowfullscreen webkitallowfullscreen
+		src="http://www.kidsbooksandfun.com/embed/C:\Users\lfern\Videos\racoon.flv" 
+		frameborder="0"
+		style="position:absolute; top:0; left: 0">
+	</iframe>
+</div>
 
 <source src="https://www.kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.flv" />
 <video width="560" height="340" preload controls>
