@@ -3,9 +3,9 @@
 ![](images/sometrainTT.png)
 
 
-<source src="https://www.kidsbooksandfun.com/video/rocoon.flv" />
+<source src="https://www.kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.flv" />
 <video width="560" height="340" preload controls>
-<embed type="application/x-vlc-plugin" pluginspage="http://www.kidsbooksandfun.com" target="video/racoon.mp4" />
+<embed type="application/x-vlc-plugin" pluginspage="http://www.kidsbooksandfun.com" target="C:\Users\lfern\Videos\racoonT.flv" />
 </video>
 
 <private void btnStart_Click(object sender, EventArgs e)
