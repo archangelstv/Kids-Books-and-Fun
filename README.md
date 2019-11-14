@@ -12,10 +12,7 @@
 		style="position:absolute; top:0; left: 0">
 	</iframe>
 </div>
-<video width="560" height="340" preload controls>
-<source src="https://www.kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" />
-<embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" target="C:\Users\lfern\Videos\racoon.mp4" />
-</video>
+
 
 <private void btnStart_Click(object sender, EventArgs e)
       {
