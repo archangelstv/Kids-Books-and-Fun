@@ -2,7 +2,7 @@
 
 ![](images/sometrainTT.png)
 
-<object width="560" height="340" id="lsplayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://archangelstv.com/ls/racoon.flv"></param><param name="allowScriptAccess" value="always"></param><param name="allowFullScreen" value="true"></param><embed name="lsplayer" wmode="transparent" src="http://archangelstv.com/ls/C:\Users\lfern\Videos\racoon.flv" width="560" height="340" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash"></embed></object><div style="font-size: 11px;padding-top:10px;text-align:center;width:560px">Watch <a href="http://www.archangelstv.com/?utm_source=C:\Users\lfern\Videos\racoon.flv" title="live streaming video">live streaming video</a> from <a href="http://www.archangelstv.com/" title="Watch video at archangelstv.com">racoon</a> at archangelstv.com</div>
+<object width="560" height="340" id="lsplayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://kidsbooksandfun.com/ls/racoon.flv"></param><param name="allowScriptAccess" value="always"></param><param name="allowFullScreen" value="true"></param><embed name="lsplayer" wmode="transparent" src="http://kidsbooksandfun.com/ls/C:\Users\lfern\Videos\racoon.flv" width="560" height="340" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash"></embed></object><div style="font-size: 11px;padding-top:10px;text-align:center;width:560px">Watch <a href="http://www.kidsbooksandfun.com/?utm_source=C:\Users\lfern\Videos\racoon.flv" title="live streaming video">live streaming video</a> from <a href="http://www.kidsbooksandfun.com/" title="Watch video at kidsbooksandfun.com">racoon</a> at kidsbooksandfun.com</div>
 
 
       
