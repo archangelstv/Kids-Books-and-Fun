@@ -4,7 +4,9 @@
 
 <object width="560" height="340" id="lsplayer" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://kidsbooksandfun.com/racoon.flv"></param><param name="allowScriptAccess" value="always"></param><param name="allowFullScreen" value="true"></param><embed name="lsplayer" wmode="transparent" src="http://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.flv" width="560" height="340" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash"></embed></object><div style="font-size: 11px;padding-top:10px;text-align:center;width:560px">Watch <a href="http://www.kidsbooksandfun.com/?utm_source=C:\Users\lfern\Videos\racoon.flv" title="live streaming video">live streaming video</a> from <a href="http://www.kidsbooksandfun.com/" title="Watch video at kidsbooksandfun.com">racoon.flv</a> at kidsbooksandfun.com</div>
 
-
+<video width="320" height="240" controls>
+<source src=http://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.flv" type="video/mp4">
+</video> 
       
 Magical stories from the Imagination of Dreams
 And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
