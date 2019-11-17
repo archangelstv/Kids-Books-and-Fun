@@ -8,7 +8,6 @@
 <param name="movie" value="https://www.kidsbooksandfun.com/Video/racoon.mp4" />
 <embed src="https://www.kidsbooksandfun.com/Video/racoon.mp4" type="application/x-shockwave-flash"
 allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
-</embed>
 </object>
 
 
