@@ -5,8 +5,8 @@
 <object width="400" height="224" >
 <param name="allowfullscreen" value="true" />
 <param name="allowscriptaccess" value="always" />
-<param name="movie" value="http://www.kidsbooksandfun.com/Video/racoon.mp4" />
-<embed src="http://www.kidsbooksandfun.com/Video/racoon.mp4" type="application/x-shockwave-flash"
+<param name="movie" value="https://www.kidsbooksandfun.com/Video/racoon.mp4" />
+<embed src="https://www.kidsbooksandfun.com/Video/racoon.mp4" type="application/x-shockwave-flash"
 allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 </embed>
 </object>
@@ -14,7 +14,7 @@ allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 
 
 <video width="320" height="240" controls>
-<source src=http://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" type="video/mp4">
+<source src=https://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" type="video/mp4">
 </video> 
       
 Magical stories from the Imagination of Dreams
