@@ -10,6 +10,14 @@
 allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 </object>
 
+<object width="425" height="350">
+  <param name="movie" value="https://www.kidsbooksandfun.com/Videos/racoon.mp4" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.kidsbooksandfun.com/Videos/racoon.mp4"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 ![](Videos/recoon.mp4)
 
 <video width="320" height="240" controls>
