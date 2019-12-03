@@ -10,10 +10,10 @@
 allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 </object>
 
-
+![](Videos/recoon.mp4)
 
 <video width="320" height="240" controls>
-<source src=https://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" type="video/mp4">
+<source src=https://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" type="Video/mp4">
 </video> 
       
 Magical stories from the Imagination of Dreams
