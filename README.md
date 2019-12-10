@@ -12,7 +12,7 @@
 allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
 </object>
 
-<video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></Video>
 
 
 <object width="425" height="350">
