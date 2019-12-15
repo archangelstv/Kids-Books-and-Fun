@@ -2,28 +2,6 @@
 
 ![](images/sometrainTT.png)
 
-<video src="http://kidsbooksandfun.com/Videos/Untitled project.vlc" width="320" height="200" controls preload></Video>
-
-<object width="400" height="224" >
-<param name="allowfullscreen" value="true" />
-<param name="allowscriptaccess" value="always" />
-<param name="movie" value="https://www.kidsbooksandfun.com/Videos/racoon.mp4" />
-<embed src="https://www.kidsbooksandfun.com/Video/racoon.mp4" type="application/x-shockwave-flash"
-allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
-</object>
-
-<video src="http://kidsbooksandfun.com/Videos/racoon.mp4" width="320" height="200" controls preload></Video>
-
-
-<object width="425" height="350">
-  <param name="movie" value="https://www.kidsbooksandfun.com/Videos/racoon.mp4" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.kidsbooksandfun.com/Videos/racoon.mp4"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
-![](Videos/recoon.mp4)
 
 <video width="320" height="240" controls>
 <source src=https://kidsbooksandfun.com/C:\Users\lfern\Videos\racoon.mp4" type="Video/mp4">
