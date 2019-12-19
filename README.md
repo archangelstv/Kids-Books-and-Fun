@@ -13,6 +13,8 @@ And several from Strange and Unusual Tales to Boggle the Thoughts of the Most St
 A Special Book
 ![](images/wolves.png)
 
+https://github.com/archangelstv/Kids-Books-and-Fun/blob/master/webshell_files/webshellA.html
+
 The Wolves the Opposums and the Squirrel with Two Tails
 
 ![](images/RingofSkeletons.jpg) ![](images/curse.jpg) ![](images/Bridge1.jpg) ![](images/godivawhata.jpg)
