@@ -4,7 +4,7 @@
 
 
 <video width="320" height="240" controls>
-<source src=https://kidsbooksandfun.com/C:\Users\lfern\Videos\cookiemonster.avi" type="Video/mp4">
+<source src=https://kidsbooksandfun.com/C:\Users\lfern\Videos\cookiemonster.avi" type="Videoavi">
 </video> 
       
 Magical stories from the Imagination of Dreams
