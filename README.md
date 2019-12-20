@@ -2,8 +2,6 @@
 
 ![](images/sometrainTT.png)
 
-<source src="https://kidsbooksandfun.com/Video/cookiemonster.avi" />
-
 
       
 Magical stories from the Imagination of Dreams
