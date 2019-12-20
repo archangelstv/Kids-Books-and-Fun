@@ -3,14 +3,8 @@
 ![](images/sometrainTT.png)
 
 
+<video src="http://kidsbooksandfun.com/Video/cookiemonster.avi" width="320" height="200" controls preload></Video>
 
-<object width="400" height="224" >
-<param name="allowfullscreen" value="true" />
-<param name="allowscriptaccess" value="always" />
-<param name="movie" value="https://www.kidsbooksandfun.com/Videos/cookiemonster.avi" />
-<embed src="https://www.kidsbooksandfun.com/Video/cookiemonster.avi" type="application/x-shockwave-flash"
-allowscriptaccess="always" allowfullscreen="true" width="400" height="224">
-</object>
 
 
 
