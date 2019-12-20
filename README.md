@@ -13,7 +13,7 @@ A Special Book
 
 The Wolves the Opposums and the Squirrel with Two Tails
 
-<source src="https://https://archangelstv.github.io/kidsbooksandfun/Video/cookiemonster.avi" />
+<source src="https://http://archangelstv.github.io/kidsbooksandfun/Video/cookiemonster.avi" />
 
 ![](images/RingofSkeletons.jpg) ![](images/curse.jpg) ![](images/Bridge1.jpg) ![](images/godivawhata.jpg)
 
