@@ -6,6 +6,8 @@
 <video src="http://kidsbooksandfun.com/Video/cookiemonster.avi" width="320" height="200" controls preload></Video>
 
 
+<iframe width="100%" height="100%" allowfullscreen webkitallowfullscreen src="http://www.kidsbooksandfun.com
+/embed/C:\Users\lfern\Videos\cookiemonster.avi" frameborder="0" style="position:absolute; top:0; left: 0"> </iframe>
 
 
 <video width="320" height="240" controls>
