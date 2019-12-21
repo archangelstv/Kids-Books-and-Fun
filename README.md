@@ -7,7 +7,7 @@
 Magical stories from the Imagination of Dreams
 And several from Strange and Unusual Tales to Boggle the Thoughts of the Most Stable Adults
 
-<video src="https://kidsbooksandfun.com/Video/cookiemonster.avi" width="320" height="200" controls preload></video>
+<video src="https://kidsbooksandfun.com/Video/cookiemonster.avi" width="320" height="200" controls preload></Video>
 
 A Special Book
 ![](images/wolves.png)
