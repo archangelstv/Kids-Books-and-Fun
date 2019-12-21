@@ -12,8 +12,6 @@ And several from Strange and Unusual Tales to Boggle the Thoughts of the Most St
 A Special Book
 ![](images/wolves.png)
 
-<source src="https://github.com/archangelstv/Kids-Books-and-Fun/Video/cookiemonster.avi" /> <source src="https://github.com/archangelstv/kidsbooksandfun/Video/cookiemonster.avi" />
-
 
 The Wolves the Opposums and the Squirrel with Two Tails
 
