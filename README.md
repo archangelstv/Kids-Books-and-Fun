@@ -2,9 +2,9 @@
 
 ![](images/sometrainTT.png)
 
-<video src="http://kidsbooksandfun.com/Videos/racoon.mkv" width="320" height="200" controls preload></video>
-<video src="http://kidsbooksandfun.com/Videos/racoon3.mp4" width="320" height="200" controls preload></video>
-<video src="http://kidsbooksandfun.com/Videos/racoon5.mkv" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Video/racoon.mkv" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Video/racoon3.mp4" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Video/racoon5.mkv" width="320" height="200" controls preload></video>
 
       
 Magical stories from the Imagination of Dreams
