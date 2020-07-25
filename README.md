@@ -2,7 +2,7 @@
 
 ![](images/sometrainTT.png)
 
-<video src="http://kidsbooksandfun.com/Videos/cookiemonster.avi" width="320" height="200" controls preload></video>
+<video src="http://kidsbooksandfun.com/Videos/racoon." width="320" height="200" controls preload></video>
 
       
 Magical stories from the Imagination of Dreams
